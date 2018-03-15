@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+
+div,input[type="text"] {
+
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 0.75rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color:#6c757d;
+    text-align: left;
+    }
+
+    button[type="button"] {
+
+        font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+        font-size: 0.75rem;
+        font-weight: 400;
+        line-height: 1.5;
+        color:white;
+        text-align: left;
+        }
